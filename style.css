@@ -183,7 +183,7 @@
 }
 
 .nav-profile {
-    width: 30%;
+    width: 24%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -197,6 +197,8 @@
 
 .nav-icon {
     width: 48%;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .microsoft-nav {
